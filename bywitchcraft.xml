@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<site-list version="1">
+    <created-by>
+        <tool>Enterprise Mode Site List Manager</tool>
+        <version>11.0.0.0</version>
+    </created-by>
+    <site url="www.bywitchcraft.com">
+        <compat-mode>Default</compat-mode>
+        <open-in>IE11</open-in>
+    </site>
+</site-list>
